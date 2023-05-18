@@ -2,7 +2,7 @@
 
 <div>
   
-<h1 align="center">Hello! <img src="https://github.com/natxdixie/image/blob/main/f7c6afe87c8c19023946cb8747e54552.gif" style="border-radius:5;" width="45px" alt=""><br></h1>
+<h1 align="center">Olá! <img src="https://github.com/natxdixie/image/blob/main/f7c6afe87c8c19023946cb8747e54552.gif" style="border-radius:5;" width="45px" alt=""><br></h1>
 
 <p align="center">
 
