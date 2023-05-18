@@ -60,7 +60,7 @@
 
   
 
-![Snake animation](https://github.com/YajiirDev/YajiirDev/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/YajiirDev/blob/output/github-contribution-grid-snake.svg)
 
   
 
